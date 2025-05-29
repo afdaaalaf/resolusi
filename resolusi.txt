@@ -1,0 +1,30 @@
+## RESOLUSI SAYA SELAMA BELAJAR PROGRAMMING 
+
+## Utama
+- Lebih rajin dalam belajar
+- Mengesampingkan hal-hal yang tidak berguna
+- Meningkatkan literasi dan numerasi
+- Memperbaiki menejemen waktu
+- Melatih logika pemrograman
+- Tidak pernah berhenti belajar sebelum takdir memberhentikan
+- Mempelajari hal-hal di bawah:
+
+## Frontend
+- HTML
+- CSS
+   ^ Tailwind CSS
+- Javascript
+
+## Backend
+- PHP
+   ^ Laravel
+- Mysql
+- Phyton
+
+## Other
+- API
+- VPS
+   ^ GIT
+- RHS
+  ^ GITHUB
+- linux
